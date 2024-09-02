@@ -6,5 +6,7 @@ I have implemented a regression model for the red wine prediction and classifier
 
 Here are the links for the tutorial, outlier detection technique and the dataset:
 https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee
+
 https://archive.ics.uci.edu/dataset/186/wine+quality
+
 http://datapigtechnologies.com/blog/index.php/highlighting-outliers-in-your-data-with-the-tukey-method/
