@@ -5,6 +5,7 @@ I have learned how to analyze data how to spot outliers and how to train and see
 I have implemented a regression model for the red wine prediction and classifier and regression model for the white wine dataset.
 
 Here are the links for the tutorial, outlier detection technique and the dataset:
+
 https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee
 
 https://archive.ics.uci.edu/dataset/186/wine+quality
